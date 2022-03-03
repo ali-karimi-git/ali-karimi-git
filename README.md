@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ali karimi
+- 👋 Hi, I’m Ali Karimi
 - 👀 I’m interested in product management
 - 🌱 I’m currently learning python
 - 📫 How to reach me work.alikarimi[at]gmail.com
